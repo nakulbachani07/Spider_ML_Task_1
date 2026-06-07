@@ -35,7 +35,7 @@ Architecture:
 
 - Loss Function: Cross Entropy Loss
 - Optimizer: Adam
-- Epochs: 10
+- Epochs: 5
 - Batch Size: 64
 - Framework: PyTorch
 
